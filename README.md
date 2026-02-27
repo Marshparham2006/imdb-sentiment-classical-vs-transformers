@@ -110,3 +110,6 @@ Testing Longformer for long reviews
 Cross-domain generalization experiments
 
 Deploying as a web app (Streamlit)
+
+
+if you want to see my blog in Medium :   https://medium.com/@marshparham2/is-classical-machine-learning-still-competitive-e04fa2a905c3
